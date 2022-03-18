@@ -3,4 +3,4 @@
 ##hw0 My Little Engine
 ***
 *email:susi8911@gmail.com 
-*gh-pages:https://NightFoxyClara.github.io/I3A17-Game-Program-Design/homework_page.html
+*gh-pages:https://NightFoxyClara.github.io/gameprogram/homework_page.html
